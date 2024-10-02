@@ -23,7 +23,7 @@ img{
     font-size: 40px; 
 }
 
-.group_icons i:hover{
+.group_icons i:hover, .second_icon_top i:hover{
    color: gray;
 }
 .alone_icon:hover{
