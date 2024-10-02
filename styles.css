@@ -1,0 +1,66 @@
+body{
+    background-color: black; 
+    font-family: Roboto;   
+}
+img{
+    width: 550px;
+}
+
+.first_icon_top{
+   margin-left: 20px;
+   margin-right: 10px;
+}
+
+.first_icon_top i {
+    font-size: 35px;
+}
+
+.name_top{
+    width: 85%;
+}
+
+.second_icon_top i {
+    font-size: 40px; 
+}
+
+.group_icons i:hover{
+   color: gray;
+}
+.alone_icon:hover{
+    color: rgb(102, 51, 153);
+      
+}
+
+.post{
+    background-color: white;
+    width: 550px;
+    height: 700px;
+    margin: 100px auto;
+}
+
+.top_post{
+    display: flex;
+    align-items: center;
+    margin: px;
+    
+    height: 70px;
+}
+
+
+.html{
+    font-weight: bold;
+    margin-bottom: -15px;
+}
+
+.icons_bar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.bot_post{
+    margin: 20px;
+}
+.bot_post i {
+    font-size: 35px;
+}
